@@ -120,7 +120,7 @@ header p{
     margin: 20px auto;
     background-color: aliceblue;
     display: flex;
-    height: 500px
+    
 
 }
 .card{
@@ -128,6 +128,7 @@ header p{
     border-radius: 10px;
     overflow: hidden;
     margin: 10px;
+    
    
 
 
